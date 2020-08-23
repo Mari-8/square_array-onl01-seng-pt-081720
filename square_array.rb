@@ -3,6 +3,7 @@ def square_array(array)
   answer = squared ** 2
   
   end
+  return answer
 end
 
 
